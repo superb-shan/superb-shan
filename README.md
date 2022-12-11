@@ -1,7 +1,7 @@
 <h1 align="center">Hello people👋, I'm Shankar</h1>
 <h3 align="center">A passionate Fullstack developer and a laconical programmer from India</h3>
 
-- 🔭 I’m currently working on [Tasky website](https://github.com/superb-shan/shan_task_manager_dt.git)
+- 🔭 I’m currently working on [Full Scale Zomato](https://github.com/superb-shan/)
 
 - 🌱 I’m currently learning **Backend development**
 
