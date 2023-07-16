@@ -1,13 +1,13 @@
 <h1 align="center">Hello people👋, I'm Shankar</h1>
 <h3 align="center">A passionate Fullstack developer and a laconical programmer from India</h3>
 
-- 🔭 I’m currently working on [Full Scale Zomato](https://github.com/superb-shan/)
+- 🔭 I’m currently working on multiple projects
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **BlockChain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/superb-shan](https://github.com/superb-shan)
 
-- 💬 Ask me about **C, C++, Python and frontend techs**
+- 💬 Ask me about **C, C++, Python and fullstack techs**
 
 - 📫 How to reach me **shankar.k2021csec@sece.ac.in**
 
