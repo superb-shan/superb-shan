@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/superb-shan](https://github.com/superb-shan)
 
-- 💬 Ask me about **C, C++, Python and fullstack techs**
+- 💬 Ask me about **C, C++, Python, Java, MySQL and FullStack techs**
 
 - 📫 How to reach me **shankar.k2021csec@sece.ac.in**
 
